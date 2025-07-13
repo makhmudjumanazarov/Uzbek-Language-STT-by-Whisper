@@ -1,12 +1,22 @@
 ## Uzbek Language STT(Speech to Text) by Whisper
-### Description
-This is a fine-tuned version of OpenAI's Whisper model for Uzbek speech recognition, trained on the Common Voice 11.0 dataset.
+This repository contains a fine-tuned version of [OpenAI's Whisper](https://github.com/openai/whisper) model for **Uzbek speech recognition**. The model was trained on Mozilla's [Common Voice 11.0](https://commonvoice.mozilla.org/en/datasets) dataset, specifically for the Uzbek language.
 
-Performance on evaluation set:
-    - WER (Word Error Rate): 34.93%
-    - Loss: 0.3416
+## 🧠 Model Overview
 
-Ideal for transcribing Uzbek audio with Whisper Small accuracy.
+- **Base model:** openai/whisper-small
+- **Language:** Uzbek
+- **Training dataset:** Common Voice 11.0 (Uzbek subset)
+
+## 📊 Evaluation Results
+
+- **Loss:** `0.3416`
+- **Word Error Rate (WER):** `34.93%`
+
+## 🚀 Use Cases
+
+- Uzbek speech-to-text transcription
+- Voice-controlled applications
+- Audio data processing in Uzbek
 
 ### Dataset
 Contents of the dataset:

@@ -24,11 +24,10 @@ Contents of the dataset:
 - Number of images: 20,580
 - Annotations: Class labels, Bounding boxes
 
-The dataset can be downloaded from <a href= "http://vision.stanford.edu/aditya86/ImageNetDogs/">here.</a>
+## 💡 How to Use
 
-Sample images of 9 different categories from the dataset:
+You can use the model with the Hugging Face `transformers` pipeline:
 
-![Images of Dogs](/images/dog_images.png)
 
 ### Getting Started
 The `stanford_dog.ipynb` notebook can be directly run on Jupyter Notebook or others. Use GPU for faster training and evaluation.

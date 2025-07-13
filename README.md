@@ -47,8 +47,7 @@ pip install -r requirements.txt
 <pre>
 python gradio_doc.py
 </pre> 
-<br/>
+
 ![Whisper Uzbek Gradio Demo](gradio.jpg)
-<br/>
 
 

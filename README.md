@@ -37,15 +37,15 @@ python -m venv stt
 source stt/bin/activate # Linux
 </pre>
 <br/>
-<b>Step 4.</b> Install dependencies and add virtual environment to the Python Kernel
+<b>Step 4.</b> Install dependencies
 <pre>
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 </pre>
 <br/>
-<b>Step 5.</b> 
+<b>Step 5.</b> Run on gradio 
 <pre>
-The `stanford_dog.ipynb` notebook can be directly run on Jupyter Notebook
+python gradio_doc.py
 </pre> 
 <br/>
 

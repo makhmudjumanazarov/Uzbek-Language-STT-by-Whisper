@@ -58,4 +58,6 @@ The model was fine-tuned using the `transformers` library. The training script i
 
 Full training code can be found in the `whisper.ipynb` file.
 
+This video link provides a detailed explanation of the demo version: [YouTube Video](https://www.youtube.com/watch?v=0dL_Elh1WnI).
+
 

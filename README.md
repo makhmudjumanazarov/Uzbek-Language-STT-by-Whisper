@@ -50,4 +50,12 @@ python gradio_doc.py
 
 ![Whisper Uzbek Gradio Demo](gradio.jpg)
 
+## Training Process
+The model was fine-tuned using the `transformers` library. The training script is available in the repository. The training process involved:
+- Loading the pre-trained Whisper model
+- Fine-tuning on the Common Voice dataset
+- Evaluating the model on a validation set  
+
+Full training code can be found in the `whisper.ipynb` file.
+
 

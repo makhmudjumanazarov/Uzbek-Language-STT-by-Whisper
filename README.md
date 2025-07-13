@@ -24,7 +24,7 @@ You can use the model with the Hugging Face `transformers` pipeline:
 
 ### Steps
 <br />
-<b>Step 1.</b> Clone <a href= "https://github.com/makhmudjumanazarov/Uzbek-Language-STT-by-Whisper.git">git </a> and <a href= "https://huggingface.co/Makhmud/whisper-uzbek/tree/main?clone=true">huggingface repositories </a>
+<b>Step 1.</b> Clone <a href= "https://github.com/makhmudjumanazarov/Uzbek-Language-STT-by-Whisper.git">git </a> and <a href= "https://huggingface.co/Makhmud/whisper-uzbek/tree/main?clone=true">huggingface </a> repositories
 via Terminal, cmd or PowerShell
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 

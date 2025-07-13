@@ -1,0 +1,1 @@
+## Uzbek Language STT(Speech to Text) by Whisper
